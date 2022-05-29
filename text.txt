@@ -1,3 +1,4 @@
 This my first story in text.txt
 This is my second story in text.txt
 This is my third story in text.txt
+This is my fourth story in text.txt
