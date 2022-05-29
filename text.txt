@@ -1,1 +1,2 @@
 This my first story in text.txt
+This is my second story in text.txt
